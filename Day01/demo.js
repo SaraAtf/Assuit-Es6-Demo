@@ -87,3 +87,12 @@
 // }
 
 // callback function
+// [10,20,5,0,-1,-40] ==> [positive]
+// [ "mona", "ali", "ahmed" ]
+// ["Mona","Ali","Ahmed"]
+"hello js from ITI"; //
+//  Es6  Array API
+
+// ["ali", "mona", "Doha", "ALAA"] y = 3;
+
+// ["mona", "doha", "alaa"];
